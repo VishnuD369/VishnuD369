@@ -1,5 +1,5 @@
 Welcome to My GitHub Profile!
-👋 Hi there! My name is Vishnu Vardhan, I'm a Cyber Security Engineer with over 3.6 years of experience in protecting digital assets, enhancing security operations, and mitigating risks across various environments. My expertise lies in threat detection, incident response, and security automation.
+👋 Hi there! My name is Vishnu Vardhan, I'm a Cyber Security Engineer with over 2.9 years of experience in protecting digital assets, enhancing security operations, and mitigating risks across various environments. My expertise lies in threat detection, incident response, and security automation.
 
 About Me
 With a strong background in security operations, cloud security, and regulatory compliance, I have successfully led numerous projects that have significantly improved the security posture of the organizations I've worked with. I am passionate about leveraging cutting-edge technologies and frameworks to identify and thwart potential threats, ensuring robust security measures are in place.
